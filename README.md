@@ -3,7 +3,7 @@
 A real-time **3D robot arm simulator** built with Python, featuring Denavit-Hartenberg (DH) parameter control, forward kinematics visualization, and an interactive dark-themed GUI.
 
 <p align="center">
-  <img src="arm_sys,png" width="500"/>
+  <img src="arm_sys.png" width="500"/>
 </p>
 
 ---
